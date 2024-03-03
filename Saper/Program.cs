@@ -50,7 +50,7 @@ class Program
 
                 {
 
-                    if (board[x, y] == '*')
+                    if (board[y, x] == '*')
 
                     {
 
